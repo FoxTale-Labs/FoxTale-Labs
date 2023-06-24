@@ -15,7 +15,6 @@ I've got quite a few of interests with the most notable being:
 <br>
 <img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/56976c63-0e4c-46e3-8cd1-c90437f554aa"><br>
 
-Those are the projects I worked in, made or contribute to:<br><br>
 <img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/2d74ae60-0f92-47b8-8713-4f4fe7e0dbc6"><br>
 A FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos).<br><br>
 
