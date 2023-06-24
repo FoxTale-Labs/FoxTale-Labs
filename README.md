@@ -15,16 +15,21 @@ I've got quite a few of interests with the most notable being:
 <br>
 <img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/65f403d4-4467-4516-b446-26b10bcf844f"><br><br>
 
-<img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"><br>
-A FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos).<br><br>
-
 <img width="200" alt="FyreBlitz" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/72c9559a-e66d-4d26-a29b-52a868077fa7"><br>
 [FyreBlitz](https://fyreblitz.com) is a company that I'm building and it's meant to be the next generation of hosting and project management, you can manage teams, do advanced source control, AI check, document, comment code, live collaborate, auto-deploy and a lot more!<br>
 Currently it's not released yet, so the website is just showing "Coming Soon".<br><br>
 
 <img width="200" alt="ArcticOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/124c3445-d40e-484c-9e6a-d25c4b1955f4"><br>
-And finally ArcticOS, it's the operating system I'm working on myself with my small team of developers. It got interesting features such as full Windows Native support for Drivers and Win32 Apps. It's currently not in public beta so I can't give access sadly 😞, but a public beta will be out soon.<br>
-Our [🖥️ website](https://arcticos.org) is also still a W.I.P.
+We then get to ArcticOS, it's the operating system I'm working on myself with my small team of developers. It got interesting features such as full Windows Native support for Drivers and Win32 Apps. It's currently not in public beta so I can't give access sadly 😞, but a public beta will be out soon.<br>
+Our [🖥️ website](https://arcticos.org) is also still a W.I.P.<br><br>
+
+<img width="200" alt="Nebula" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/9d753fd6-80ed-4a3f-8d0d-00973ec6ae2b"><br>
+Next comes Nebula, which is a multipurpose bot with infinite expandability and crossplatform functionality. It's very developer-friendly and lets 3rd parties extend its capabilities while all extensions for Nebula are multiplatform automatically.<br>
+We have a [Discord server](https://discord.gg/EbpdxrZedv), [Guilded server](https://guilded.gg/Nebula), [YouTube channel](https://www.youtube.com/@NebulaTheBot/) and a [Twitter](https://twitter.com/NeboolaTheBot).
+<br><br>
+
+<img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"><br>
+And finally AvdanOS, a FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos).
 
 <br><br>
 <img height="48" alt="The languages I use" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/8d04fc9f-2096-420a-b296-8c67531d5b5e"><br>
