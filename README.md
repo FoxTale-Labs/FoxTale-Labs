@@ -48,7 +48,8 @@ Ofc I used other languages than these in the past, but I stopped using most of t
 I have a presence on very few social medias which are:
 - [YouTube](https://youtube.com/@foxtale-labs)
 - [Twitter](https://twitter.com/foxtale_labs)
-<br>I don't yet have much more of an online presence, but that's gonna change soon!
+
+I don't yet have much more of an online presence, but that's gonna change soon!
 
 <br><br>
 <img height="48" alt="My Ko-Fi" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/242d169e-4a2d-41e7-b03c-46f7c59fd998"><br>
