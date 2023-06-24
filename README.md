@@ -1,10 +1,10 @@
-<img width="2472" alt="GithubBanner (FoxTale Labs)@2x" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/2534fc1f-04d1-4b77-932f-2e6403133bbe">
+<img width="2490" alt="FoxTale Labs" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/48e15c36-8065-499a-839c-334ee50f0c20">
 
 ### Hello 👋,
 I'm Engin and a *passionate developer* contributing to *Open Source projects*, *doing occassional freelancing*, *working on personal projects* and generally constantly learning and improving my skills.
 
 <br>
-<img height="48" alt="My Interests" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/90267ded-c3d8-4036-966d-479c4c5a87c2"><br>
+<img height="48" alt="My Interests" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/fd1ef8cd-eacb-4c73-88dd-8895e8cfabee"><br>
 
 I've got quite a few of interests with the most notable being:
 - 💻 Coding in various languages
@@ -13,7 +13,7 @@ I've got quite a few of interests with the most notable being:
 - 🎨 Digital Art
 
 <br>
-<img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/56976c63-0e4c-46e3-8cd1-c90437f554aa"><br><br>
+<img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/65f403d4-4467-4516-b446-26b10bcf844f"><br><br>
 
 <img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"><br>
 A FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos).<br><br>
@@ -27,7 +27,7 @@ And finally ArcticOS, it's the operating system I'm working on myself with my sm
 Our [🖥️ website](https://arcticos.org) is also still a W.I.P.
 
 <br><br>
-<img height="48" alt="The languages I use" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/ba2b2187-b37d-4dc0-94e8-c498e4ff2bad"><br>
+<img height="48" alt="The languages I use" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/8d04fc9f-2096-420a-b296-8c67531d5b5e"><br>
 I've got advanced level experience in a few languages which are<br><br>
 <img height="100" alt="JavaScript logo" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/034a788b-3b1a-4178-b9b5-a138051495f0">
 <img height="100" alt="Rust logo" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/28cc61e8-df0e-48d7-8403-638fa1a8b0fe">
@@ -39,19 +39,19 @@ I've got advanced level experience in a few languages which are<br><br>
 Ofc I used other languages than these in the past, but I stopped using most of them. For example I used to use Java and even began my developer career with it.
 
 <br><br>
-<img height="48" alt="My Socials" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/0f48ada3-7683-4d4d-96cd-2675df529f36"><br>
+<img height="48" alt="My Socials" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/023eb0e1-2ada-45cd-8cf3-21b7341d9ecd"><br>
 I have a presence on very few social medias which are:
 - [YouTube](https://youtube.com/@foxtale-labs)
 - [Twitter](https://twitter.com/foxtale_labs)
 er with it.
 
 <br><br>
-<img height="48" alt="My Ko-Fi" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/a219b4cf-2389-45a4-9db0-647cb978c7aa"><br>
+<img height="48" alt="My Ko-Fi" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/242d169e-4a2d-41e7-b03c-46f7c59fd998"><br>
 I also have a [Ko-Fi](https://ko-fi.com/foxtalelabs) on where I sometimes have commissions open or sell items. I also accept donations on there if anyone wants to help me out!<br>
 Thanks for you support ❤️.
 
 <br><br>
-<img height="48" alt="Thank You ♥️" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/ebb24f3a-856f-4a41-a80d-f8fcc9ce9248"><br>
+<img height="48" alt="Thank You ♥️" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/2e132444-6c66-4ec2-8213-390781ec2660"><br>
 Thanks for reading my profile readme and getting to the end! I really appreciate it ❤️.<br>
 I really appreciate it!
 ### Bye!
