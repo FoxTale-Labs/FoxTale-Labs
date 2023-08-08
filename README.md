@@ -61,6 +61,6 @@ Thanks for you support ❤️.
 Thanks for reading my profile readme and getting to the end! I really appreciate it ❤️.<br>
 I really appreciate it!
 
-Special Credits:
+### Special Credits
 - My boyfriend ❤️ [@SunightMC](https://github.com/SunightMC/SunightMC)!
 ### Bye!
