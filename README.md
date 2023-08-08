@@ -50,8 +50,6 @@ I have a presence on very few social medias which are:
 - [Twitter](https://twitter.com/foxtale_labs)
 
 I don't yet have much more of an online presence, but that's gonna change soon!
-Special Credits:
-- My boyfriend ❤️ [@SunightMC](https://github.com/SunightMC/SunightMC)!
 
 <br><br>
 <img height="48" alt="My Ko-Fi" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/242d169e-4a2d-41e7-b03c-46f7c59fd998"><br>
@@ -62,4 +60,7 @@ Thanks for you support ❤️.
 <img height="48" alt="Thank You ♥️" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/2e132444-6c66-4ec2-8213-390781ec2660"><br>
 Thanks for reading my profile readme and getting to the end! I really appreciate it ❤️.<br>
 I really appreciate it!
+
+Special Credits:
+- My boyfriend ❤️ [@SunightMC](https://github.com/SunightMC/SunightMC)!
 ### Bye!
