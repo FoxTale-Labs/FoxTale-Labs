@@ -43,6 +43,8 @@ I've got advanced level experience in a few languages which are<br><br>
 <img height="100" alt="CSS logo" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/8f59522e-c2da-4b62-957f-09260f971063"><br>
 Ofc I used other languages than these in the past, but I stopped using most of them. For example I used to use Java and even began my developer career with it.
 
+And yes, ik that calling CSS/HTML (& MySQL sometimes) is a hot topic, but I'd say it is.
+
 <br><br>
 <img height="48" alt="My Socials" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/023eb0e1-2ada-45cd-8cf3-21b7341d9ecd"><br>
 I have a presence on very few social medias which are:
