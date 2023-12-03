@@ -50,6 +50,8 @@ And yes, ik that calling CSS/HTML (& MySQL sometimes) is a hot topic, but I'd sa
 I have a presence on very few social medias which are:
 - [YouTube](https://youtube.com/@foxtale-labs)
 - [Twitter](https://twitter.com/foxtale_labs)
+- [GitHub](https://github.com/FoxTale-Labs)
+- [Ko-Fi](https://ko-fi.com/foxtalelabs)
 
 I don't yet have much more of an online presence, but that's gonna change soon!
 
