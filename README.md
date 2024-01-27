@@ -23,11 +23,6 @@ Currently it's not released yet, so the website is just showing "Coming Soon".<b
 We then get to ArcticOS, it's the operating system I'm working on myself with my small team of developers. It got interesting features such as full Windows Native support for Drivers and Win32 Apps. It's currently not in public beta so I can't give access sadly 😞, but a public beta will be out soon.<br>
 Our [🖥️ website](https://arcticos.org) is also still a W.I.P.<br><br>
 
-<img width="200" alt="Nebula" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/9d753fd6-80ed-4a3f-8d0d-00973ec6ae2b"><br>
-Next comes Nebula, which is a multipurpose bot with infinite expandability and crossplatform functionality. It's very developer-friendly and lets 3rd parties extend its capabilities while all extensions for Nebula are multiplatform automatically.<br>
-We have a [Discord server](https://discord.gg/EbpdxrZedv), [Guilded server](https://guilded.gg/Nebula), [YouTube channel](https://www.youtube.com/@NebulaTheBot/) and a [Twitter](https://twitter.com/NeboolaTheBot).
-<br><br>
-
 <img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"><br>
 And finally AvdanOS, a FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos).
 
