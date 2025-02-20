@@ -23,6 +23,8 @@ Currently it's not released yet, so the website is just showing "Coming Soon".<b
 ### Little leak
 ![image](https://github.com/user-attachments/assets/d1729d8c-a177-4a64-85e3-fad447409de3)
 
+If you want, don't mind joining our [Discord](https://discord.gg/jvyYPS2e4B).
+
 <br>
 
 <img width="200" alt="ArcticOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/124c3445-d40e-484c-9e6a-d25c4b1955f4"><br>
