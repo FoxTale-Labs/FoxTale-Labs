@@ -34,7 +34,6 @@ Me with a team of 4 developers and 2 quality assurers/PR members have been build
 
 ### Little leak from a few weeks ago
 ![image](https://github.com/user-attachments/assets/8fdd02ea-5ac3-425f-a014-df2bc5668995)
-
 Interested? Don't mind joining our [Discord](https://discord.gg/jvyYPS2e4B) then!
 
 <br>
