@@ -31,7 +31,7 @@ If you want, don't mind joining our [Discord](https://discord.gg/jvyYPS2e4B).
 Looking at my other (hobby) project, ArcticOS, it's the operating system I'm working on myself with a small team of developers. It got interesting features such as full Windows Native support for Drivers and Win32 Apps. It's currently not in public beta so I can't give access sadly 😞, but a public beta will be out soon.<br>
 Our [🖥️ website](https://arcticos.org) is also still a W.I.P.<br><br>
 
-<img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"><br>
+<img width="200" alt="AvdanOS" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/cc283b64-9a64-4298-b122-055e88d69548"> (no longer active) <br>
 And finally AvdanOS, a FOSS Linux based operating system inspired by the concepts and designs of [Avdan](https://www.youtube.com/@Avdan) and our Website is [https://avdanos.com/](https://avdanos.com/) and we also got a [YouTube Channel](https://www.youtube.com/@avdanos). I used to be the upper manager at the project andU UI/UX designer. Nowadays I am a public relations team member.
 
 <br><br>
