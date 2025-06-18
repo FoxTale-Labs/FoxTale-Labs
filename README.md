@@ -1,7 +1,7 @@
 <img width="2490" alt="FoxTale Labs" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/48e15c36-8065-499a-839c-334ee50f0c20">
 
 ### Hello 👋,
-I'm Engin, a *passionate developer* contributing to *Open Source projects*, *doing occassional freelancing*, *working on personal projects* and generally constantly learning and improving on my skills.
+I'm FoxTale Labs, a *passionate developer* contributing to *Open Source projects*, *doing occassional freelancing*, *working on personal projects* and generally constantly learning and improving on my skills.
 
 <br>
 <img height="48" alt="My Interests" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/fd1ef8cd-eacb-4c73-88dd-8895e8cfabee"><br>
