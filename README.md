@@ -32,8 +32,11 @@ Rebxd is a service that we've been building and it's meant to unify your entire 
 
 Me with a team of 4 developers and 2 quality assurers/PR members have been building this for a quite a bit and are excited to launch it soon.
 
-### Little leak from a few weeks ago
-![image](https://github.com/user-attachments/assets/8fdd02ea-5ac3-425f-a014-df2bc5668995)
+### Little homepage leak
+<img width="1800" height="1170" alt="image" src="https://github.com/user-attachments/assets/2dabe53a-51be-40c1-a5b0-ad6d6febcc28" />
+
+<!-- ![image](https://github.com/user-attachments/assets/8fdd02ea-5ac3-425f-a014-df2bc5668995) -->  
+
 Interested? Don't mind joining our [Discord](https://discord.gg/jvyYPS2e4B) then!
 
 <br>
