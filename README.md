@@ -15,20 +15,8 @@ I've got quite a few of interests with the most notable being:
 <br>
 <img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/65f403d4-4467-4516-b446-26b10bcf844f"><br><br>
 
-<!---
-<img width="200" alt="FyreBlitz" src="https://github.com/user-attachments/assets/14b628c9-9052-4885-a63d-b33cb2cd2669"><br>
-[FyreBlitz](https://fyreblitz.com) is a service that I've been building and it's meant to be the next generation of DevOps: Ditch GitHub and do your collaboration, management, testing, source control, integrations, calender, and AI here!
-<br>
-Currently it's not released yet, so the website is just showing "Coming Soon".<br>
-
-### Little leak
-![image](https://github.com/user-attachments/assets/d1729d8c-a177-4a64-85e3-fad447409de3)
-
-If you want, don't mind joining our [Discord](https://discord.gg/jvyYPS2e4B)
---->
-
 <img width="200" alt="Rebxd" src="https://github.com/user-attachments/assets/62024e0b-1659-4bd5-b5dd-2fb8cbacaaee"><br>
-Rebxd is a service that we've been building and it's meant to unify your entire workflow with robust auth, row-level-secure realtime databases and storage buckets, soon analytics, caching, serverless and soon edge environment as well as custom containers and continuous deployment.
+[Rebxd](https://rebxd.com/) is a service that we've been building and it's meant to unify your entire workflow with robust auth, row-level-secure realtime databases and storage buckets, soon analytics, caching, serverless and soon edge environment as well as custom containers and continuous deployment.
 
 Me with a team of 4 developers and 2 quality assurers/PR members have been building this for a quite a bit and are excited to launch it soon.
 
@@ -76,6 +64,4 @@ Thanks for you support.-->
 Thanks for reading my profile readme and getting to the end! I really appreciate it.<br>
 I really appreciate it!
 
-<!--### Special Credits
-- My boyfriend ❤️ [@SunightMC](https://github.com/SunightMC/SunightMC)!-->
 ### Bye!
