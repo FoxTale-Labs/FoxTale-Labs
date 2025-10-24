@@ -16,7 +16,7 @@ I've got quite a few of interests with the most notable being:
 <img height="48" alt="My Projects" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/65f403d4-4467-4516-b446-26b10bcf844f"><br><br>
 
 <img width="200" alt="Rebxd" src="https://github.com/user-attachments/assets/62024e0b-1659-4bd5-b5dd-2fb8cbacaaee"><br>
-[Rebxd](https://rebxd.com/) is a service that we've been building and it's meant to unify your entire workflow with robust auth, row-level-secure realtime databases and storage buckets, soon analytics, caching, serverless and soon edge environment as well as custom containers and continuous deployment.
+[Rebxd](https://rebxd.com/) is a service that we've been building and it's meant to unify your entire workflow with robust auth, row-level-secure realtime databases and storage buckets, soon analytics, caching, serverless and soon edge environment as well as custom containers and continuous deployment. With the entire deployment powered within your codebase fully type-safe in TypeScript and deployed with one command.
 
 Me with a team of 4 developers and 2 quality assurers/PR members have been building this for a quite a bit and are excited to launch it soon.
 
